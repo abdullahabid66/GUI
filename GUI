@@ -1,0 +1,15 @@
+import java.awt.*;
+import javax.swing.*;
+
+public class GUI
+{
+	public static void main(String args[])
+	{
+		JFrame frame = new JFrame();
+		Container con = frame.getContentPane();
+		frame.setSize(300,350);
+		frame.setVisible(true);
+		
+	}
+
+}
