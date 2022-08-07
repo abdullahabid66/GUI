@@ -9,6 +9,7 @@ public class GUI
 		Container con = frame.getContentPane();
 		frame.setSize(300,350);
 		frame.setVisible(true);
+		frame.setDefaultCloseOperation(3);
 		
 	}
 
